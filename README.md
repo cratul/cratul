@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cratul
 -🎓  I've graduated from Drake University with a B.S.B.A in Data Analytics.
 - 👀 I’m interested in exploring new technologies and developing software solutions.
-- 🌱 I’m currently working as a Data Engineer at Walt Disney World. 
+- 🌱 I’m currently working as a Data Engineer at Disney Experiences. 
 - 📫 Feel free to reach out through email at celine.ratulowski@gmail.com and I'll respond as soon as possible!
 
 <!---
